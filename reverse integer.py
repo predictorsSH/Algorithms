@@ -1,3 +1,6 @@
+##leetcode 7 Reverse Integer
+##https://leetcode.com/problems/reverse-integer/
+
 class Solution:
     def reverse(self, x: int) -> int:
         input_num_str = str(x)
